@@ -22,4 +22,4 @@ tsconfig.tsbuildinfo
 test-results/
 playwright-report/
 
-.env.local
+config.bat
